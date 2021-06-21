@@ -8,8 +8,9 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
         Tech Stars 54!
-        
-        Well Done Temmy
+        Thank you Gigi!
+        Well Done Temmy!
+        Learning together is sweet!
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
