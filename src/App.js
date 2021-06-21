@@ -9,7 +9,6 @@ function App() {
         <p>
         Tech Stars 54!
         Thank you Gigi!
-        Well Done Temmy!
         Learning together is sweet!
           Edit <code>src/App.js</code> and save to reload.
         </p>
